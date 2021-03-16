@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 
 /2lab/rpi_data_compact.csv
+
+/3lab/*.db
